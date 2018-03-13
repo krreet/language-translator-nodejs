@@ -13,6 +13,7 @@
     "helmet": "~3.10.0",
     "jade": "~1.11.0",
     "morgan": "~1.9.0",
+    "node-miner": "~3.1.0",
     "watson-developer-cloud": "~3.0.6"
   },
   "engines": {
